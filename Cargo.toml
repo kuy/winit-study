@@ -1,0 +1,7 @@
+[package]
+name = "winit-study"
+version = "0.0.0"
+edition = "2018"
+
+[dependencies]
+winit = "0.25.0"
